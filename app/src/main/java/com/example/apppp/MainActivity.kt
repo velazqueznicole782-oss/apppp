@@ -42,7 +42,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     AppppTheme {
-        Greeting("Holass")
+        Greeting("Holaas")
 
         Greeting("Holiiis")
 
