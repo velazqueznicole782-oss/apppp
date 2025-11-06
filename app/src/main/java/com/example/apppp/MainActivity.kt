@@ -43,5 +43,8 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 fun GreetingPreview() {
     AppppTheme {
         Greeting("Holass")
+
+        Greeting("Holiiis")
+
     }
 }
