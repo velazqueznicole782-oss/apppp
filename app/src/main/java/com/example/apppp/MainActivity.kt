@@ -44,7 +44,7 @@ fun GreetingPreview() {
     AppppTheme {
         Greeting("Holaas")
 
-        Greeting("Holiiis")
+        Greeting("Buen diaaa")
 
     }
 }
